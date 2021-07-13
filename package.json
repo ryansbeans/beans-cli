@@ -1,0 +1,12 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "1.如何编写脚手架\r 2.如何基于依赖分析编写自己的编译工具 -- Parcel/webpack -> 依赖关系表 -> 如何转换为资源表\r 3.如何使用program/chalk等库实现命令行工具\r 4.如何综合以上实现一个生产级别的项目实践 -> lais -> la Integered System\r * lais project [name]\r * lais template\r * lais build\r * lais dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
