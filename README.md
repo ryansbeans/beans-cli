@@ -25,3 +25,13 @@
 //  ---> .babelrc
 //  ---> index.js
 //  ---> package.json
+
+// 如何让我们的项目发布到npm后全局安装能够直接进行命令行的调用
+// 答：配置package.json里的bin及name字段
+
+// 问：bin的标准写法
+// #!/usr/bin/env node
+// require("../index.js")
+
+// 编写命令行工具常用的两个库：commander/chalk
+// commander/chalk 的使用
